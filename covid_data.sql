@@ -1,3 +1,9 @@
+/*
+
+Tableau Project:
+https://public.tableau.com/app/profile/jose.velazquez/viz/COVID-19_16418708717050/COVID-19Dashboardasof2022-01-05
+
+*/
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
