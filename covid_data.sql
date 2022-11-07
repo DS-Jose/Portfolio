@@ -1,6 +1,9 @@
 /*
 
-Tableau Project:
+In this project, I extracted COVID-19 data from Our World in Data until 2022-01-05. I imported the CSV files into Microsoft SQL Server to create
+a SQL databaste and finally created a dashboard in Tableau with different types of visualizations.
+
+Tableau Dashboard:
 https://public.tableau.com/app/profile/jose.velazquez/viz/COVID-19_16418708717050/COVID-19Dashboardasof2022-01-05
 
 */
