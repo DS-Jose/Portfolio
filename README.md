@@ -1,1 +1,1 @@
-This are some of my data/business analyst portfolio projects used on my website https://analystjose.com/
+This are some of my data science portfolio projects used on my website https://ds-jose.github.io/
